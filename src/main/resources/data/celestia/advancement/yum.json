@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "id": "celestia:chem_cookie",
+      "count": 1
+    },
+    "title": {
+      "text": "Yum!",
+      "font": "minecraft:default",
+      "bold": false,
+      "italic": false,
+      "underlined": false,
+      "strikethrough": false,
+      "obfuscated": false
+    },
+    "description": {
+      "text": "Made yourself a Chem Cookie, good choice!",
+      "font": "minecraft:default"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "a": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "minecraft:chem_cookie"
+      }
+    }
+  }
+}

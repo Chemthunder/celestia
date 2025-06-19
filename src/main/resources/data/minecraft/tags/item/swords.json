@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "celestia:skeleton_cutlass",
+    "celestia:cutlass",
+    "celestia:netherite_cutlass"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:cookie",
+    "minecraft:amethyst_shard"
+  ],
+  "result": {
+    "id": "celestia:chem_cookie",
+    "components": {},
+    "count": 1
+  }
+}

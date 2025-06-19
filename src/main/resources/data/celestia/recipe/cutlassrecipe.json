@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "S  ",
+    " S ",
+    "  I"
+  ],
+  "key": {
+  "S": "minecraft:iron_ingot",
+    "I": "minecraft:iron_bars"
+  },
+  "result": {
+    "id": "celestia:cutlass",
+    "count": 1
+  },
+  "show_notification": true
+}

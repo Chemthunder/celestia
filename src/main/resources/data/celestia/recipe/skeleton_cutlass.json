@@ -1,0 +1,49 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  K",
+    "BF ",
+    "SB "
+  ],
+  "key": {
+    "S": "celestia:netherite_cutlass",
+    "B": "minecraft:coal_block",
+    "F": "minecraft:fire_charge",
+    "K": "minecraft:skeleton_skull"
+  },
+  "result": {
+    "id": "celestia:skeleton_cutlass",
+    "components": {
+      "minecraft:enchantments": {},
+      "minecraft:lore": [
+        {
+          "text": "A Noble Blade for Pirates!",
+          "type": "text",
+          "color": "#787878",
+          "font": "minecraft:default",
+          "bold": false,
+          "italic": false,
+          "underlined": false,
+          "strikethrough": false,
+          "obfuscated": false,
+          "hover_event": {
+            "action": "show_text",
+            "value": {
+              "text": "This is a text test!",
+              "type": "text",
+              "font": "minecraft:default",
+              "bold": false,
+              "italic": false,
+              "underlined": false,
+              "strikethrough": false,
+              "obfuscated": false
+            }
+          }
+        }
+      ]
+    },
+    "count": 1
+  },
+  "show_notification": true
+}
