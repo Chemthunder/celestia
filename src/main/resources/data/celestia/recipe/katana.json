@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " NS",
+    " SN",
+    "B  "
+  ],
+  "key": {
+    "N": "minecraft:netherite_ingot",
+    "S": "minecraft:sculk_catalyst",
+    "B": "minecraft:blaze_rod"
+  },
+  "result": {
+    "id": "celestia:katana",
+    "components": {
+      "minecraft:lore": [
+        {
+          "text": "I think you know, exactly what you have done.",
+          "color": "#6f5858",
+          "bold": false,
+          "italic": false,
+          "underlined": false,
+          "strikethrough": false,
+          "obfuscated": false
+        }
+      ]
+    },
+    "count": 1
+  },
+  "show_notification": false
+}

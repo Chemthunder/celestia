@@ -5,7 +5,7 @@
       "count": 1
     },
     "title": {
-      "text": "Yum!",
+      "text": "owo",
       "font": "minecraft:default",
       "bold": false,
       "italic": false,
@@ -14,8 +14,13 @@
       "obfuscated": false
     },
     "description": {
-      "text": "Made yourself a Chem Cookie, good choice!",
-      "font": "minecraft:default"
+      "text": "This guy made a Chem Cookie, what a nice guy!",
+      "font": "minecraft:default",
+      "bold": false,
+      "italic": false,
+      "underlined": false,
+      "strikethrough": false,
+      "obfuscated": false
     },
     "show_toast": true,
     "announce_to_chat": true,
@@ -28,5 +33,10 @@
         "recipe_id": "minecraft:chem_cookie"
       }
     }
-  }
+  },
+  "requirements": [
+    [
+      "a"
+    ]
+  ]
 }

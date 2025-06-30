@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:cookie",
   "result": {
-    "id": "celestia:chem_cookie",
+    "id": "celestia:master_cookie",
     "components": {},
     "count": 1
   }
